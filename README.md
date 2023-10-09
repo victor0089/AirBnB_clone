@@ -2,13 +2,13 @@
 
 One of the significant undertakings within the ALX Software Engineering program is the first project related to web development.
 Nonetheless, this project is subdivided into various sub-projects, which encompass:
-AirBnB Clone - The Console
-AirBnB Clone - Web static
-AirBnB Clone - MySQL
-AirBnB Clone - Deploy static
-AirBnB Clone - Web framework
-AirBnB Clone - RESTful API
-AirBnB Clone - Web Dynamic
+	AirBnB Clone - The Console
+	AirBnB Clone - Web static
+	AirBnB Clone - MySQL
+	AirBnB Clone - Deploy static
+	AirBnB Clone - Web framework
+	AirBnB Clone - RESTful API
+	AirBnB Clone - Web Dynamic
 In this project, we encountered approximately 18 distinct tasks to solve. The advantage of these tasks lies in their ability to dissect the overall project into more manageable segments, allowing us to focus on each task individually.
 
 Furthermore, as these tasks come with clear prompts to guide us , their execution often becomes relatively straightforward.
