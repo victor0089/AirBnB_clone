@@ -1,6 +1,5 @@
-
 #!/usr/bin/python3
-"""Defines the HBnB console. by victor"""
+"""Defines the HBnB consoleby victor. """
 import cmd
 import re
 from shlex import split
