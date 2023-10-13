@@ -22,6 +22,7 @@ We began with a thorough review of the concept pages and extensive brainstorming
 
  * The initial tasks we tackled were relatively straightforward. However, there were some among them for which we lacked prior knowledge, prompting us to search online for resources that could provide us with explanations. I distinctly recall one such task: "How to utilize the UUID module in Python."
 <img align="center" alt="hbnb" width="850" src="https://github.com/victor0089/AirBnB_clone/blob/main/hbnb.png">
+<img align="center" alt="hbnb" width="850" src="https://github.com/victor0089/AirBnB_clone/blob/main/hbnb2.png">
 ## 0x00.Table of contents
 
 * [0x01 Introduction](#0x01-Introduction)
