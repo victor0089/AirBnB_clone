@@ -280,7 +280,7 @@ e952b772-80a5-41e9-b728-6bc2dc5c21f4
     <summary>Maryam Amrani</summary>
     <ul>
     <li><a href="https://www.github.com/victor0089">Github</a></li>
-    <li><a href="mailto:messagelordwill@gmail.com">e-mail</a></li>
+    <li><a href="mailto:victor.mecdoors@gmail.com">e-mail</a></li>
     <li><a href="https://www.github.com/AMaaryam">Github</a></li>
     <li><a href="mailto:a.maaryam@gmail.com">e-mail</a></li>
     </ul>
